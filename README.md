@@ -49,7 +49,7 @@ For detailed documentation, please refer to the Github repository using the foll
 
 or access the analysis workbook directly
 
-[SQL project 1 Workbook](/html/project2.html)
+[SQL project 2 Workbook](/html/project2.html)
 
 # References
 
